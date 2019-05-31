@@ -13,29 +13,27 @@ $config = [];
 if(ENVIRONMENT == 'development') {
 	error_reporting(E_ALL);
 	ini_set("display_errors", "On");
-	define("BASE_URL", "http://lustresecia.pc/admin/");
-	define("BASE_PAINEL", "http://lustresecia.pc/painel/");
-	define("BASE_SITE", "http://lustresecia.pc/");
+	define("BASE_URL", "http://ecommerce.pc/admin/");
+	define("BASE_PAINEL", "http://ecommerce.pc/painel/");
+	define("BASE_SITE", "http://ecommerce.pc/");
 	define("BASE_MEDIA", BASE_SITE . "/store/media/products/");
-	$config['dbname'] = 'lustresecia_com_br_1';
+	$config['dbname'] = 'ecommerce';
 	$config['host'] = 'localhost';
 	$config['dbuser'] = 'root';
 	$config['dbpass'] = 'root';
 } else {
-	define("BASE_URL", "http://www.lustresecia.com.br/admin/");
-	define("BASE_PAINEL", "http://www.lustresecia.com.br/painel/");
-	define("BASE_SITE", "http://www.lustresecia.com.br/");
+	define("BASE_URL", "http://www.ecommerce.com.br/admin/");
+	define("BASE_PAINEL", "http://www.ecommerce.com.br/painel/");
+	define("BASE_SITE", "http://www.ecommerce.com.br/");
 	define("BASE_MEDIA", BASE_URL . "/media/products/");
-	$config['dbname'] = 'lustresecia_com_br_1';
+	$config['dbname'] = 'ecommerce';
 	$config['host'] = 'localhost';
-	$config['dbuser'] = 'lustres643';
-	$config['dbpass'] = 'T1b41302';
+	$config['dbuser'] = 'ecomm_001';
+	$config['dbpass'] = 'Mfgt0201';
 }
 
 $db = new PDO("mysql:dbname=" . $config['dbname'] . ";host=" . $config['host'], $config['dbuser'], $config['dbpass'], array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-date_default_timezone_set("America/Sao_Paulo");
 
 
 // DADOS PARA ENVIO DE EMAILS DO SISTEMA
@@ -48,4 +46,4 @@ date_default_timezone_set("America/Sao_Paulo");
 
 	// Recipients
 	$config['from'] = "fernando.tiburcio@gmail.com";
-	$config['addReplyTo'] = "replyto@lustresecia.com.br";
+	$config['addReplyTo'] = "replyto@ecommerce.com.br";
