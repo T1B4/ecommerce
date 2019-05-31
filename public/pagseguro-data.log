@@ -1,0 +1,4 @@
+
+24/05/2019 13:28:13 PagSeguro.Session[info]: Begin
+24/05/2019 13:28:13 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+24/05/2019 13:28:14 PagSeguro.Session[info]: Session ID: 31f3fd71a104431d841ecc523c2ceabd

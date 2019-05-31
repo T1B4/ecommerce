@@ -1,0 +1,499 @@
+
+09/04/2019 22:26:45 PagSeguro.Session[info]: Begin
+09/04/2019 22:26:46 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+09/04/2019 22:26:46 PagSeguro.Session[error]: Unauthorized
+09/04/2019 22:27:11 PagSeguro.Session[info]: Begin
+09/04/2019 22:27:11 PagSeguro.Session[info]: POST: https:///v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+09/04/2019 22:27:13 PagSeguro.Session[error]: CURL can't connect: Could not resolve host: v2
+09/04/2019 22:27:20 PagSeguro.Session[info]: Begin
+09/04/2019 22:27:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+09/04/2019 22:27:21 PagSeguro.Session[info]: Session ID: fe0f83c081084ad6bc475e8db1d8c4f2
+09/04/2019 22:29:34 PagSeguro.Session[info]: Begin
+09/04/2019 22:29:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+09/04/2019 22:29:34 PagSeguro.Session[info]: Session ID: 60491c1aeb1c46d6a62b45554347ae21
+10/04/2019 21:12:14 PagSeguro.Session[info]: Begin
+10/04/2019 21:12:15 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+10/04/2019 21:12:16 PagSeguro.Session[info]: Session ID: 5a45bc25dbad47c4b3386a1e130f2ca9
+13/04/2019 08:16:57 PagSeguro.Session[info]: Begin
+13/04/2019 08:16:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:16:58 PagSeguro.Session[info]: Session ID: 6fe308c7b6e8451bb610f620e79dcda1
+13/04/2019 08:17:21 PagSeguro.Session[info]: Begin
+13/04/2019 08:17:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:17:22 PagSeguro.Session[info]: Session ID: a25bbf04e2594c029abe0eb6c23ae332
+13/04/2019 08:18:37 PagSeguro.Session[info]: Begin
+13/04/2019 08:18:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:18:38 PagSeguro.Session[info]: Session ID: 9cc7d0459f9a43c5a2f3db78f6600c80
+13/04/2019 08:20:03 PagSeguro.Session[info]: Begin
+13/04/2019 08:20:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:20:03 PagSeguro.Session[info]: Session ID: 3567e87fb5ca4019bf78e7b5d4de7c05
+13/04/2019 08:20:27 PagSeguro.Session[info]: Begin
+13/04/2019 08:20:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:20:27 PagSeguro.Session[info]: Session ID: 52f91783768b4de5b6d55c3eefe8904a
+13/04/2019 08:20:52 PagSeguro.Session[info]: Begin
+13/04/2019 08:20:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:20:52 PagSeguro.Session[info]: Session ID: 5d0b621fd9ab4b5484215d54ec3133f5
+13/04/2019 08:22:32 PagSeguro.Session[info]: Begin
+13/04/2019 08:22:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:22:32 PagSeguro.Session[info]: Session ID: 669fe3d2e82c4424b046bb1e2da77e5f
+13/04/2019 08:24:10 PagSeguro.Session[info]: Begin
+13/04/2019 08:24:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:24:10 PagSeguro.Session[info]: Session ID: 1a4d7fb6ee1b4950a9660df20688e477
+13/04/2019 08:24:12 PagSeguro.Session[info]: Begin
+13/04/2019 08:24:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:24:12 PagSeguro.Session[info]: Session ID: 3733bc15fa8e45639fc3a4e60770a9b7
+13/04/2019 08:26:02 PagSeguro.Session[info]: Begin
+13/04/2019 08:26:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:26:02 PagSeguro.Session[info]: Session ID: ef83293a63274d67879f3abd1b07960f
+13/04/2019 08:28:21 PagSeguro.Session[info]: Begin
+13/04/2019 08:28:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:28:21 PagSeguro.Session[info]: Session ID: f5bb7477b196451e996ada3c7219283b
+13/04/2019 08:29:16 PagSeguro.Session[info]: Begin
+13/04/2019 08:29:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:29:17 PagSeguro.Session[info]: Session ID: e937d042049141ba85d236b100f4b4c0
+13/04/2019 08:32:22 PagSeguro.Session[info]: Begin
+13/04/2019 08:32:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:32:23 PagSeguro.Session[info]: Session ID: 1415e073cbdd4bad98e7254e78cb90c8
+13/04/2019 08:32:23 PagSeguro.Session[info]: Begin
+13/04/2019 08:32:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 08:32:24 PagSeguro.Session[info]: Session ID: 04a37a3801024b138be19bc69a49c8c7
+13/04/2019 15:52:08 PagSeguro.Session[info]: Begin
+13/04/2019 15:52:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 15:52:09 PagSeguro.Session[info]: Session ID: 934784c67feb44049b2d5aa85aabf809
+13/04/2019 15:54:14 PagSeguro.Session[info]: Begin
+13/04/2019 15:54:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 15:54:15 PagSeguro.Session[info]: Session ID: 5ea92ca462834267a0dd466927bed696
+13/04/2019 16:50:06 PagSeguro.Session[info]: Begin
+13/04/2019 16:50:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 16:50:07 PagSeguro.Session[info]: Session ID: ef612c5e4bff411b9804f09034365329
+13/04/2019 16:52:37 PagSeguro.Session[info]: Begin
+13/04/2019 16:52:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 16:52:38 PagSeguro.Session[info]: Session ID: 44c55e804b304e9dafc6dc2389bdd8b9
+13/04/2019 16:52:40 PagSeguro.Session[info]: Begin
+13/04/2019 16:52:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 16:52:40 PagSeguro.Session[info]: Session ID: 798d47a432ff446fba030977ae729b85
+13/04/2019 16:54:53 PagSeguro.Session[info]: Begin
+13/04/2019 16:54:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 16:54:53 PagSeguro.Session[info]: Session ID: 677b2b2ac6c34183a4feb3615198375b
+13/04/2019 16:59:29 PagSeguro.Session[info]: Begin
+13/04/2019 16:59:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 16:59:29 PagSeguro.Session[info]: Session ID: 411511e14d9544f59bfb28c896b37356
+13/04/2019 17:00:07 PagSeguro.Session[info]: Begin
+13/04/2019 17:00:07 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:00:07 PagSeguro.Session[info]: Session ID: 40df03c9c7794a738b8cba004dbe5b74
+13/04/2019 17:02:50 PagSeguro.Session[info]: Begin
+13/04/2019 17:02:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:02:50 PagSeguro.Session[info]: Session ID: 433b2da2046a4e75a2fea95a9ff3a4af
+13/04/2019 17:06:51 PagSeguro.Session[info]: Begin
+13/04/2019 17:06:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:06:51 PagSeguro.Session[info]: Session ID: f3a3deece9034979a69dffa99849345f
+13/04/2019 17:07:20 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:07:20 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:07:21 PagSeguro.Checkout[info]: Params: {"reference":"56","notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"SD9810\/08","itemDescription1":"LUSTRE DE CRISTAL RAFINNATO COM 8 BRA\u00c7OS 68X56 CM","itemQuantity1":1,"itemAmount1":"1121.49","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"632fa933c684fca9f0d2828da7efc6a49444decc5277a1fe1cfe02e99fb846f9","shippingCost":"107.24","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:07:27 PagSeguro.Session[error]: Internal Server Error
+13/04/2019 17:08:19 PagSeguro.Session[info]: Begin
+13/04/2019 17:08:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:08:20 PagSeguro.Session[info]: Session ID: 298f925922b84026b781020e73d54e46
+13/04/2019 17:08:48 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:08:48 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:08:48 PagSeguro.Checkout[info]: Params: {"reference":"56","notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"SD9810\/08","itemDescription1":"LUSTRE DE CRISTAL RAFINNATO COM 8 BRA\u00c7OS 68X56 CM","itemQuantity1":1,"itemAmount1":"1121.49","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"a6819a76971fe7ca2deb6784b1e385affa4f428c79fc7765ebae463e32caec17","shippingCost":"107.24","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:08:54 PagSeguro.Session[error]: Internal Server Error
+13/04/2019 17:15:36 PagSeguro.Session[info]: Begin
+13/04/2019 17:15:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:15:36 PagSeguro.Session[info]: Session ID: 4fb7755ec6534cd792c470ac0a9dd865
+13/04/2019 17:16:34 PagSeguro.DirectPayment.CreditCard[info]: Begin
+13/04/2019 17:16:34 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:16:34 PagSeguro.Checkout[info]: Params: {"reference":"56","notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"fernando tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"1353.34","noInterestInstallmentQuantity":6,"itemId1":"SD9810\/08","itemDescription1":"LUSTRE DE CRISTAL RAFINNATO COM 8 BRA\u00c7OS 68X56 CM","itemQuantity1":1,"itemAmount1":"1246.10","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"56f26b87f6c73d8652445a490f1684dd94e2496904cbfee5bc166d54315d69a8","shippingCost":"107.24","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"731f7d999a6c49f591cfe8b999ff7bdd"}
+13/04/2019 17:16:38 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: C1AA3D36-BD8F-4181-B01B-C1E2B5F37BF2
+13/04/2019 17:19:12 PagSeguro.Session[info]: Begin
+13/04/2019 17:19:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:19:12 PagSeguro.Session[info]: Session ID: 2583c55e5d324ca39470eaee276a0fae
+13/04/2019 17:22:54 PagSeguro.Session[info]: Begin
+13/04/2019 17:22:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:22:54 PagSeguro.Session[info]: Session ID: 7aa58489e2d5422f8ee42a6071ede98f
+13/04/2019 17:24:57 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:57 PagSeguro.Session[info]: Session ID: 5385bd49b143429b80783a19c33534c8
+13/04/2019 17:24:57 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:58 PagSeguro.Session[info]: Session ID: 6eb7b73f51e24e488771f7500ad2e6e3
+13/04/2019 17:24:58 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:58 PagSeguro.Session[info]: Session ID: ec053f0cd8a5485ba1944ce4a32b422a
+13/04/2019 17:24:58 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:58 PagSeguro.Session[info]: Session ID: 46ebe0a90fe0424e8efaa4165d137c06
+13/04/2019 17:24:58 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:59 PagSeguro.Session[info]: Session ID: 5d5d145e3ef54a37b6e2b02af454657d
+13/04/2019 17:24:59 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:59 PagSeguro.Session[info]: Session ID: 219f658a8b8f44d3b18547a8c91070ec
+13/04/2019 17:24:59 PagSeguro.Session[info]: Begin
+13/04/2019 17:24:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:24:59 PagSeguro.Session[info]: Session ID: 07d7fcd339a34d169de6787e1790ec0b
+13/04/2019 17:25:00 PagSeguro.Session[info]: Begin
+13/04/2019 17:25:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:25:00 PagSeguro.Session[info]: Session ID: 2e01cd3d475849d890289dffe0190dfa
+13/04/2019 17:25:00 PagSeguro.Session[info]: Begin
+13/04/2019 17:25:00 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:25:00 PagSeguro.Session[info]: Session ID: f637d5051e5a4dc2882b78847ff015ba
+13/04/2019 17:25:26 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:25:26 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:25:26 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"SD9810\/08","itemDescription1":"LUSTRE DE CRISTAL RAFINNATO COM 8 BRA\u00c7OS 68X56 CM","itemQuantity1":1,"itemAmount1":"1121.49","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"de57cc758c1405fc0ec248076cc7aaf9e6e866df847b6fbcd3eafe9d04c8825e","shippingCost":"107.24","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:25:27 PagSeguro.DirectPayment.Boleto[info]: Boleto Payment Link URL: https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=e341327863014b20d4c970989281bcc07e1b3448c1289863c3d5613790ece4999f479e2037c26bca
+13/04/2019 17:27:40 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:41 PagSeguro.Session[info]: Session ID: 6285c2555ccf423095aabb41e04e1291
+13/04/2019 17:27:41 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:41 PagSeguro.Session[info]: Session ID: 848b2d65bad344fcaf9efd7261def89e
+13/04/2019 17:27:42 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:42 PagSeguro.Session[info]: Session ID: 5453487a49ef4de2902dfe422e5da14d
+13/04/2019 17:27:42 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:42 PagSeguro.Session[info]: Session ID: cf174fb5cb7e495fac694db2c55949bc
+13/04/2019 17:27:42 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:43 PagSeguro.Session[info]: Session ID: b25194b25a23426c9252d21fa6479e34
+13/04/2019 17:27:43 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:44 PagSeguro.Session[info]: Session ID: 9737ea2d0ea64476a0078cd143759123
+13/04/2019 17:27:44 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:44 PagSeguro.Session[info]: Session ID: 65f1699f9088402b8c8e85a677e1a316
+13/04/2019 17:27:44 PagSeguro.Session[info]: Begin
+13/04/2019 17:27:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:27:44 PagSeguro.Session[info]: Session ID: e3edbf8301194daf872bec3a7c25a959
+13/04/2019 17:28:09 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:28:09 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:28:09 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"SD9810\/08","itemDescription1":"LUSTRE DE CRISTAL RAFINNATO COM 8 BRA\u00c7OS 68X56 CM","itemQuantity1":1,"itemAmount1":"1121.49","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"bc330370b121755bfb6ddc67518a5e70ac07fea6b938331d716bf777405f23fb","shippingCost":"107.24","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:28:11 PagSeguro.DirectPayment.Boleto[info]: Boleto Payment Link URL: https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=2fd1efe558d557ee5c087042330bc8c0f83c102f74e9891e8b6d3dcf36691427e00924fe57ad2488
+13/04/2019 17:35:50 PagSeguro.Session[info]: Begin
+13/04/2019 17:35:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:35:50 PagSeguro.Session[info]: Session ID: 082d69d6a20549178e230d6e57af8a44
+13/04/2019 17:36:37 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:36:37 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:36:37 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"134.85","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"0c9926690cfb610d3b26aa115932ef86401ba18d34e0434cb00a92f60dde0e4b","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:36:43 PagSeguro.Session[error]: Internal Server Error
+13/04/2019 17:37:49 PagSeguro.Session[info]: Begin
+13/04/2019 17:37:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:37:49 PagSeguro.Session[info]: Session ID: 956faeb58fe24b0d9a7d58507632c684
+13/04/2019 17:38:15 PagSeguro.DirectPayment.Boleto[info]: Begin
+13/04/2019 17:38:15 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:38:15 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"134.85","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"ac80abb18fd90593fb3f637954227e64d87eb1df81c06ccfe3ecbc7f008da31e","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+13/04/2019 17:38:21 PagSeguro.Session[error]: Internal Server Error
+13/04/2019 17:51:34 PagSeguro.Session[info]: Begin
+13/04/2019 17:51:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:51:35 PagSeguro.Session[info]: Session ID: 701938fabc9046678b9aa0fd9bf85ca1
+13/04/2019 17:51:36 PagSeguro.Session[info]: Begin
+13/04/2019 17:51:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 17:51:36 PagSeguro.Session[info]: Session ID: 0b896123705e4891bd50ab76f4e890e0
+13/04/2019 18:42:22 PagSeguro.Session[info]: Begin
+13/04/2019 18:42:22 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:42:23 PagSeguro.Session[info]: Session ID: aae584000b0b44fdaaff626198657938
+13/04/2019 18:43:57 PagSeguro.Session[info]: Begin
+13/04/2019 18:43:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:43:57 PagSeguro.Session[info]: Session ID: 0443830f68ba4d3c825bae1918f0b368
+13/04/2019 18:43:57 PagSeguro.Session[info]: Begin
+13/04/2019 18:43:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:43:57 PagSeguro.Session[info]: Session ID: 02e184a792af4131bb192ec7b677f897
+13/04/2019 18:43:57 PagSeguro.Session[info]: Begin
+13/04/2019 18:43:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:43:58 PagSeguro.Session[info]: Session ID: 591907c4d23c4b1c99340a9a90e91cd2
+13/04/2019 18:46:24 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:25 PagSeguro.Session[info]: Session ID: 710b8d94f4d74d5ebd2b0099228067f8
+13/04/2019 18:46:25 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:25 PagSeguro.Session[info]: Session ID: 8e3d30dd5a774454af89c4ba6d15ada9
+13/04/2019 18:46:25 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:26 PagSeguro.Session[info]: Session ID: 07e129ddc8df4c07a26986e3d3e32afb
+13/04/2019 18:46:26 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:26 PagSeguro.Session[info]: Session ID: 4a5dd5efae7a4e528144da0012d53ca8
+13/04/2019 18:46:26 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:26 PagSeguro.Session[info]: Session ID: 6d9110724c0445769cf4330667083e89
+13/04/2019 18:46:26 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:27 PagSeguro.Session[info]: Session ID: d1e9cc8826fc49c2ad75eb29ffc8f474
+13/04/2019 18:46:27 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:27 PagSeguro.Session[info]: Session ID: 510b48d5497b472da4ed0762adc4e1a6
+13/04/2019 18:46:27 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:28 PagSeguro.Session[info]: Session ID: 85eff4bbb92049e79a02c36febf800df
+13/04/2019 18:46:28 PagSeguro.Session[info]: Begin
+13/04/2019 18:46:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:46:28 PagSeguro.Session[info]: Session ID: 2bb125c503fd41b28728905c5a938f90
+13/04/2019 18:52:46 PagSeguro.Session[info]: Begin
+13/04/2019 18:52:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:52:47 PagSeguro.Session[info]: Session ID: fefd7bd3bbaa48a386e6e00320b81673
+13/04/2019 18:52:47 PagSeguro.Session[info]: Begin
+13/04/2019 18:52:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:52:47 PagSeguro.Session[info]: Session ID: 59951bb230f944a69da6f86271244b57
+13/04/2019 18:52:47 PagSeguro.Session[info]: Begin
+13/04/2019 18:52:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:52:48 PagSeguro.Session[info]: Session ID: 74c9aca6c1624bbeab42c74eb0474fe7
+13/04/2019 18:52:48 PagSeguro.Session[info]: Begin
+13/04/2019 18:52:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:52:48 PagSeguro.Session[info]: Session ID: ad6dbcab01a344ec957cbc78feadc90f
+13/04/2019 18:52:48 PagSeguro.Session[info]: Begin
+13/04/2019 18:52:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:52:48 PagSeguro.Session[info]: Session ID: b2c50f4f1bc94b8a8bfb97f5e47cb09a
+13/04/2019 18:56:49 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:50 PagSeguro.Session[info]: Session ID: bba345b49d544751a1786eabd785ada8
+13/04/2019 18:56:50 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:50 PagSeguro.Session[info]: Session ID: f54909ffd2964e40a468bbb782ab1c69
+13/04/2019 18:56:50 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:50 PagSeguro.Session[info]: Session ID: 1f5bde88e24147a5abd9153f99269a2b
+13/04/2019 18:56:50 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:50 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:51 PagSeguro.Session[info]: Session ID: 502ba1827f094a6a8b994fd720ce7ac4
+13/04/2019 18:56:51 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:51 PagSeguro.Session[info]: Session ID: 9e17174bd3874a169f9c9c8972c7648f
+13/04/2019 18:56:51 PagSeguro.Session[info]: Begin
+13/04/2019 18:56:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:56:52 PagSeguro.Session[info]: Session ID: cf77c0d23511478eae3a41dab361a4e1
+13/04/2019 18:58:53 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:54 PagSeguro.Session[info]: Session ID: 34ed620d1770425b8e027ef178833029
+13/04/2019 18:58:54 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:54 PagSeguro.Session[info]: Session ID: 4279b74e7c504fdbaf7a918766dd1e6f
+13/04/2019 18:58:55 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:55 PagSeguro.Session[info]: Session ID: 60cb91679c01440d92f2452c62456fc7
+13/04/2019 18:58:55 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:55 PagSeguro.Session[info]: Session ID: 83bf2ac9ba2e498ab1ec8b2fe599a6ae
+13/04/2019 18:58:56 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:56 PagSeguro.Session[info]: Session ID: d24bdbb4700742ada79a49d07182e140
+13/04/2019 18:58:56 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:57 PagSeguro.Session[info]: Session ID: e7175b7031a74de88d5712f203bc7b5a
+13/04/2019 18:58:57 PagSeguro.Session[info]: Begin
+13/04/2019 18:58:57 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 18:58:57 PagSeguro.Session[info]: Session ID: 69c1551e40824a04a4d9eab10e1935d2
+13/04/2019 19:33:43 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:43 PagSeguro.Session[info]: Session ID: 5b09e77e88c447e1b4b8b0b29fbb1b4b
+13/04/2019 19:33:43 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:44 PagSeguro.Session[info]: Session ID: 4c634177f203430e8a4ccee1de91b429
+13/04/2019 19:33:44 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:44 PagSeguro.Session[info]: Session ID: 07d7fd842b6a4594a14d4c7bc5508972
+13/04/2019 19:33:44 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:44 PagSeguro.Session[info]: Session ID: e0d92f05fce546f2a09fc96b3ae487c1
+13/04/2019 19:33:44 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:45 PagSeguro.Session[info]: Session ID: b76973c18f1147faa33cc5b58f421a80
+13/04/2019 19:33:45 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:45 PagSeguro.Session[info]: Session ID: 61b953475fa94c91bba1f9d40c5cd6a6
+13/04/2019 19:33:45 PagSeguro.Session[info]: Begin
+13/04/2019 19:33:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+13/04/2019 19:33:46 PagSeguro.Session[info]: Session ID: 71017083ddef48bda572993e23be1b89
+14/04/2019 09:08:53 PagSeguro.Session[info]: Begin
+14/04/2019 09:08:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:08:54 PagSeguro.Session[info]: Session ID: 1c1b992a74e241dc8650d8a8c6d3f31d
+14/04/2019 09:17:04 PagSeguro.Session[info]: Begin
+14/04/2019 09:17:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:17:05 PagSeguro.Session[info]: Session ID: 7861e2d3244b4dfbb691918c19f91dd6
+14/04/2019 09:22:26 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 09:22:26 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:22:26 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"785.80","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"5a545b2b064e06955c8935910a3b96f26f9b2d644d38c9107e12786531046472","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"042fefe670b849bb849e6a373d8905a3"}
+14/04/2019 09:22:29 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: F220C09F-627D-4EC0-A039-86EC4A6D570C
+14/04/2019 09:23:09 PagSeguro.Session[info]: Begin
+14/04/2019 09:23:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:23:09 PagSeguro.Session[info]: Session ID: c3c728e935ff410d96f9d679c1ce05c6
+14/04/2019 09:24:02 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 09:24:02 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:24:02 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"785.80","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"338395daa09ee7a08f43c60189f556610c3628d7b5048240c63e5b9d5b3a072b","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"1b430d916484433b9650bf3ea18997eb"}
+14/04/2019 09:24:06 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 5B485B07-CC8C-4E28-B4F4-352A409DCE2D
+14/04/2019 09:26:38 PagSeguro.Session[info]: Begin
+14/04/2019 09:26:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:26:38 PagSeguro.Session[info]: Session ID: 04f7ee5cdef74f2cb7024e9f0ecc7e90
+14/04/2019 09:27:53 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 09:27:53 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:27:53 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"785.80","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"5b50e2e956b837076c5ba19492e7acada7ba500fbd9883b764a1c959933e8c07","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"bf4b75c717cd437f8dff7c7645fd73dd"}
+14/04/2019 09:27:55 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: F2EE7A51-3D85-41D9-9A7C-FFDE542761F0
+14/04/2019 09:40:42 PagSeguro.Session[info]: Begin
+14/04/2019 09:40:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:40:42 PagSeguro.Session[info]: Session ID: a7838363a2e4474f9adfb62ca487207a
+14/04/2019 09:42:20 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 09:42:20 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:42:20 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"785.80","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"61dbe4093a080abb4b91af36bc48a63c870a7b2a85741a350d50b78a3f25b7eb","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"29b13c50f9364053a0bc8ece7a74e63c"}
+14/04/2019 09:42:22 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 1B545F1B-F77A-474C-BCFF-C36F30AEE2D5
+14/04/2019 09:58:34 PagSeguro.Session[info]: Begin
+14/04/2019 09:58:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:58:34 PagSeguro.Session[info]: Session ID: 029548e5e24948d28a1cf7c4482b0116
+14/04/2019 09:58:34 PagSeguro.Session[info]: Begin
+14/04/2019 09:58:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:58:34 PagSeguro.Session[info]: Session ID: 5b6d1c4b8d2d4a789c8204371ddd1d57
+14/04/2019 09:58:35 PagSeguro.Session[info]: Begin
+14/04/2019 09:58:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:58:35 PagSeguro.Session[info]: Session ID: 4a2521f2352348b7a649abd8fae4d98d
+14/04/2019 09:58:35 PagSeguro.Session[info]: Begin
+14/04/2019 09:58:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:58:35 PagSeguro.Session[info]: Session ID: d35348107f3c467bb8d5039fc0d0b5f9
+14/04/2019 09:59:33 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 09:59:33 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 09:59:33 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"6","installmentValue":"130.97","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"5e7abc8f74c2be8a1335d30ef5acd5792d6d604aa0d9e8bac20eca907903d44e","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"1dcb04691e25458f8ad4095470d99b62"}
+14/04/2019 09:59:35 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: DA7FE2E9-AB32-48C6-9446-535C5BD3BC5B
+14/04/2019 10:00:42 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 10:00:42 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:00:42 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"6","installmentValue":"130.97","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"5e7abc8f74c2be8a1335d30ef5acd5792d6d604aa0d9e8bac20eca907903d44e","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"d239c913a2f543d9b7e5f42f02bfa42c"}
+14/04/2019 10:00:43 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 9872F718-0B94-4659-988E-664C16662906
+14/04/2019 10:02:13 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 10:02:13 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:02:13 PagSeguro.Checkout[info]: Params: {"reference":59,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"6","installmentValue":"130.97","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"5e7abc8f74c2be8a1335d30ef5acd5792d6d604aa0d9e8bac20eca907903d44e","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"d715760b2d0a417eb385be845bff748a"}
+14/04/2019 10:02:15 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 47F69C64-4316-4A8E-AAC1-24181E7E60C6
+14/04/2019 10:03:16 PagSeguro.Session[info]: Begin
+14/04/2019 10:03:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:03:16 PagSeguro.Session[info]: Session ID: 9bc985e5399a47b6adc65fea127d16a8
+14/04/2019 10:03:18 PagSeguro.Session[info]: Begin
+14/04/2019 10:03:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:03:18 PagSeguro.Session[info]: Session ID: c4cf2679e83243c8ab3f682114a7bc07
+14/04/2019 10:28:34 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:34 PagSeguro.Session[info]: Session ID: e661b0022b784214abdb2a059f9d8d63
+14/04/2019 10:28:34 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:34 PagSeguro.Session[info]: Session ID: af45e26bb7ee41e89e8d27fe19aaaace
+14/04/2019 10:28:34 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:35 PagSeguro.Session[info]: Session ID: 9607b70018f741f39af61536c50c1444
+14/04/2019 10:28:35 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:35 PagSeguro.Session[info]: Session ID: 28c71654dfb34212a019ca5ac0970849
+14/04/2019 10:28:35 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:35 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:36 PagSeguro.Session[info]: Session ID: 0b5f5b6fdafa43a49fceed46527158f0
+14/04/2019 10:28:36 PagSeguro.Session[info]: Begin
+14/04/2019 10:28:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:28:36 PagSeguro.Session[info]: Session ID: 81034650089d46e6a514e4dac48d1f12
+14/04/2019 10:29:40 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 10:29:40 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:29:40 PagSeguro.Checkout[info]: Params: {"reference":60,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"3","installmentValue":"261.93","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"9bf7ebb5ad0ecd378b3b15cd5be3043fbb4f526af06426b2cb488d6e841a9960","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"375b0332c6e54f61b12204d9b1cdc875"}
+14/04/2019 10:29:43 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 6928BECF-2FF0-48F0-9A79-017EA66C016C
+14/04/2019 10:41:10 PagSeguro.Session[info]: Begin
+14/04/2019 10:41:10 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:41:10 PagSeguro.Session[info]: Session ID: 1dab30c39f174519908f8b374924e786
+14/04/2019 10:41:14 PagSeguro.Session[info]: Begin
+14/04/2019 10:41:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:41:14 PagSeguro.Session[info]: Session ID: 957d5dec947c4025b40279a1a439952c
+14/04/2019 10:42:16 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 10:42:16 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:42:16 PagSeguro.Checkout[info]: Params: {"reference":61,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"4","installmentValue":"196.45","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"da20a5e68a478e3f640d9f2f31f7cf2df158ab47144a5226725dba9a50d14c97","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"ca098cc1116847a68c4b155889ea5b1d"}
+14/04/2019 10:42:18 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 474DEF5B-950F-45B3-8A0C-87D777A329B0
+14/04/2019 10:50:44 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:45 PagSeguro.Session[info]: Session ID: f50125efc1924641b82dec773c8cc4a7
+14/04/2019 10:50:45 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:46 PagSeguro.Session[info]: Session ID: 284ff084785f43c9a5a40599b4329be1
+14/04/2019 10:50:46 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:46 PagSeguro.Session[info]: Session ID: 6923fa7cea1e4b9cb465fa6866d68239
+14/04/2019 10:50:46 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:46 PagSeguro.Session[info]: Session ID: b04d0af8a2894f4da9be0d968d0aab3b
+14/04/2019 10:50:46 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:47 PagSeguro.Session[info]: Session ID: 10430f55ff5345cc9296a6b600e89445
+14/04/2019 10:50:47 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:47 PagSeguro.Session[info]: Session ID: ad6568d8996b4cc1b49233ccb6b5b193
+14/04/2019 10:50:47 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:48 PagSeguro.Session[info]: Session ID: 6cddbfcbbb1c439ea25961f67f5790d5
+14/04/2019 10:50:48 PagSeguro.Session[info]: Begin
+14/04/2019 10:50:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:50:48 PagSeguro.Session[info]: Session ID: e901f84298134396914845caf34138bd
+14/04/2019 10:53:28 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 10:53:28 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 10:53:28 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"fernando tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"4","installmentValue":"196.45","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"31b45eca19a2fd23bdebf2b93ebf4b98efe56e8a7e8054f44a73c280fa5055fc","shippingCost":"36.60","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"7cb736bdb0af49be87b6b22ea07cfc40"}
+14/04/2019 10:53:30 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 8F7D5FC4-E22B-4DA3-BB9C-0F0A8E7873CA
+14/04/2019 11:10:54 PagSeguro.Session[info]: Begin
+14/04/2019 11:10:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 11:10:54 PagSeguro.Session[info]: Session ID: 12d1f7ed017f42728a2bc8df8dc58273
+14/04/2019 11:12:04 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 11:12:04 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 11:12:04 PagSeguro.Checkout[info]: Params: {"reference":63,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"886.35","noInterestInstallmentQuantity":6,"itemId1":"08156","itemDescription1":"ARANDELA QUASAR BALLET LED 5 WATTS BR","itemQuantity1":5,"itemAmount1":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"1876d358153643ff6ab8a9a039fcd762b762d716eace28f0369f73007614f00e","shippingCost":"137.15","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"61b5b3fd52cb4bcda3f022ff640b39fd"}
+14/04/2019 11:12:06 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 22023581-53AD-41D0-AAE7-89A3F37A5B1A
+14/04/2019 11:14:05 PagSeguro.Session[info]: Begin
+14/04/2019 11:14:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 11:14:05 PagSeguro.Session[info]: Session ID: 5365d3d9dc6a4546aece0f1595a59c20
+14/04/2019 11:14:49 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 11:14:49 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 11:14:49 PagSeguro.Checkout[info]: Params: {"reference":64,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"","installmentQuantity":"1","installmentValue":"891.35","noInterestInstallmentQuantity":6,"itemId1":"PE1506PT","itemDescription1":"PENDENTE ACRILICO LUNA PRETO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"746.80","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"df30b78cd43e488f9be30e975262ff900fb6a691e1215d65ac9a023bf440ad0b","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"1f650c3337bb457e8fcfc9fe6a584955"}
+14/04/2019 11:14:50 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53045</code><message>credit card holder cpf is required.</message></error></errors>
+14/04/2019 11:15:58 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 11:15:58 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 11:15:58 PagSeguro.Checkout[info]: Params: {"reference":64,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"13","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Fernando Tiburcio","creditCardHolderBirthDate":"01\/11\/1977","creditCardHolderAreaCode":"16","creditCardHolderPhone":"997277971","creditCardHolderCPF":"27299949806","installmentQuantity":"1","installmentValue":"891.35","noInterestInstallmentQuantity":6,"itemId1":"PE1506PT","itemDescription1":"PENDENTE ACRILICO LUNA PRETO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"746.80","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderIp":"127.0.0.1","senderHash":"df30b78cd43e488f9be30e975262ff900fb6a691e1215d65ac9a023bf440ad0b","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA","creditCardToken":"b8dd713b0be74ef6924d80c1d6ef8dc7"}
+14/04/2019 11:16:01 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 8921DACD-4243-4FF1-8CDC-09A7433D8F97
+14/04/2019 15:54:27 PagSeguro.Session[info]: Begin
+14/04/2019 15:54:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 15:54:29 PagSeguro.Session[info]: Session ID: ec9332a843fb4e15826d39a17d260e9c
+14/04/2019 15:54:45 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/04/2019 15:54:45 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+14/04/2019 15:54:46 PagSeguro.Checkout[info]: Params: {"reference":57,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","billingAddressStreet":"Rua Jo\u00e3o Alves","billingAddressNumber":"","billingAddressComplement":"","billingAddressCity":"Ja\u00fa","billingAddressState":"SP","billingAddressDistrict":"Vila Alves de Almeida","billingAddressPostalCode":"17207-560","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderAreaCode":"","creditCardHolderPhone":"","creditCardHolderCPF":null,"installmentQuantity":"","noInterestInstallmentQuantity":6,"itemId1":"FL159P","itemDescription1":"PENDENTE SUSHI PEQUENO 37CM DIAMETRO","itemQuantity1":2,"itemAmount1":"325.41","itemId2":"08233","itemDescription2":"ARANDELA QUASAR BALLET LED 5 WATTS PT","itemQuantity2":3,"itemAmount2":"149.84","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderIp":"127.0.0.1","senderHash":"87e1de0168bb50822ddf763572f846b0fcb6af206a50eaef79676a29672dd40e","shippingCost":"82.02","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+14/04/2019 15:54:46 PagSeguro.DirectPayment.CreditCard[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53037</code><message>credit card token is required.</message></error><error><code>53040</code><message>installment value is required.</message></error><error><code>53045</code><message>credit card holder cpf is required.</message></error><error><code>53042</code><message>credit card holder name is required.</message></error><error><code>53057</code><message>billing address number is required.</message></error><error><code>53038</code><message>installment quantity is required.</message></error></errors>
+19/04/2019 20:54:42 PagSeguro.Session[info]: Begin
+19/04/2019 20:54:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+19/04/2019 20:54:42 PagSeguro.Session[info]: Session ID: 474967ef90474a1d87a708ff0dd42c23
+04/05/2019 14:36:21 PagSeguro.Session[info]: Begin
+04/05/2019 14:36:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:36:22 PagSeguro.Session[info]: Session ID: 40a9aa60bc1b4d5cbf709f8a21fb67f2
+04/05/2019 14:37:01 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:37:01 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:37:01 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"PE1506BR","itemDescription1":"PENDENTE ACRILICO LUNA BRANCO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"672.12","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"95bb76fff441e9496b03207b80a5bec81782ff8642625b398ad67afcd483babe","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:37:01 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53017</code><message>sender cpf invalid value: 27299949804</message></error></errors>
+04/05/2019 14:37:11 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:37:11 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:37:11 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"PE1506BR","itemDescription1":"PENDENTE ACRILICO LUNA BRANCO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"672.12","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"95bb76fff441e9496b03207b80a5bec81782ff8642625b398ad67afcd483babe","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:37:11 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53017</code><message>sender cpf invalid value: 27299949804</message></error></errors>
+04/05/2019 14:38:39 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:38:39 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:38:39 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"PE1506BR","itemDescription1":"PENDENTE ACRILICO LUNA BRANCO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"672.12","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"95bb76fff441e9496b03207b80a5bec81782ff8642625b398ad67afcd483babe","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:38:39 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53017</code><message>sender cpf invalid value: 27299949804</message></error></errors>
+04/05/2019 14:39:40 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:39:40 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:39:40 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"PE1506BR","itemDescription1":"PENDENTE ACRILICO LUNA BRANCO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"672.12","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"95bb76fff441e9496b03207b80a5bec81782ff8642625b398ad67afcd483babe","shippingCost":"144.55","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:39:40 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53017</code><message>sender cpf invalid value: 27299949804</message></error></errors>
+04/05/2019 14:40:02 PagSeguro.Session[info]: Begin
+04/05/2019 14:40:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:40:03 PagSeguro.Session[info]: Session ID: 608b466c7d8d456892f14e9fa52b123b
+04/05/2019 14:40:10 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:40:10 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:40:10 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"PE1506PT","itemDescription1":"PENDENTE ACRILICO LUNA PRETO 55CM DIAMETRO","itemQuantity1":1,"itemAmount1":"672.12","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"bec6cbc12e0313c022f4dcbb1e009ed608b4102f565e95b308c444b72faa5b6c","shippingCost":"144.55","shippingAddressStreet":"","shippingAddressNumber":"","shippingAddressComplement":"","shippingAddressCity":"","shippingAddressState":"","shippingAddressDistrict":"","shippingAddressPostalCode":"","shippingAddressCountry":"BRA"}
+04/05/2019 14:40:11 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53020</code><message>sender phone is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error></errors>
+04/05/2019 14:43:54 PagSeguro.Session[info]: Begin
+04/05/2019 14:43:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:43:54 PagSeguro.Session[info]: Session ID: f83585908bae4d41aef0b5b958cc3627
+04/05/2019 14:44:11 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:44:11 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:44:11 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"2558","itemDescription1":"ARANDELA ARTICULADA SNOW GLASS","itemQuantity1":1,"itemAmount1":"157.19","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"f57044397cfc846b6e007ff77a8f582daafcdf05af4759d6aaa4a146c09e0866","shippingCost":"23.95","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:44:14 PagSeguro.DirectPayment.Boleto[info]: Boleto Payment Link URL: https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=d45be1f99051d97308fea83082cd8232b5dbd3a727b81dc81bf2ad690b66bba4fd84690234703bf7
+04/05/2019 14:44:21 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:44:21 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:44:21 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"2558","itemDescription1":"ARANDELA ARTICULADA SNOW GLASS","itemQuantity1":1,"itemAmount1":"157.19","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"f57044397cfc846b6e007ff77a8f582daafcdf05af4759d6aaa4a146c09e0866","shippingCost":"23.95","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:44:23 PagSeguro.DirectPayment.Boleto[info]: Boleto Payment Link URL: https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=4c81f36a9053fc40c11176969db72214072ad03d777401a8f34672a3ccaaf6daba1237a069d1684c
+04/05/2019 14:45:30 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:45:30 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:45:30 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"2558","itemDescription1":"ARANDELA ARTICULADA SNOW GLASS","itemQuantity1":1,"itemAmount1":"157.19","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"f57044397cfc846b6e007ff77a8f582daafcdf05af4759d6aaa4a146c09e0866","shippingCost":"23.95","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"13","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:45:33 PagSeguro.DirectPayment.Boleto[info]: Boleto Payment Link URL: https://sandbox.pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=7a504ecee6b0af25fc2d0d0ad34d6ad91aa034b7d9de9e4a0b9bcebc31e81faa57c7d511163e6f0c
+04/05/2019 14:46:53 PagSeguro.DirectPayment.Boleto[info]: Begin
+04/05/2019 14:46:53 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=fernando.tiburcio%40hotmail.com&token=C2D1D351490D4FB9A0F88B0EB09AB0BA
+04/05/2019 14:46:53 PagSeguro.Checkout[info]: Params: {"reference":58,"notificationURL":"http:\/\/lustresecia.pc\/psckttransparente\/notification","currency":"BRL","itemId1":"2558","itemDescription1":"ARANDELA ARTICULADA SNOW GLASS","itemQuantity1":1,"itemAmount1":"157.19","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"fernando.tiburcio@hotmail.com","senderName":"Fernando C\u00e9sar Tiburcio","senderEmail":"c88838461471406347555@sandbox.pagseguro.com.br","senderAreaCode":"16","senderPhone":"(**) 99727-****","senderCPF":"272.***.***-**","senderHash":"f57044397cfc846b6e007ff77a8f582daafcdf05af4759d6aaa4a146c09e0866","shippingCost":"23.95","shippingAddressStreet":"Rua Jo\u00e3o Alves","shippingAddressNumber":"","shippingAddressComplement":"","shippingAddressCity":"Ja\u00fa","shippingAddressState":"SP","shippingAddressDistrict":"Vila Alves de Almeida","shippingAddressPostalCode":"17207-560","shippingAddressCountry":"BRA"}
+04/05/2019 14:46:53 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53026</code><message>shipping address number is required.</message></error></errors>
