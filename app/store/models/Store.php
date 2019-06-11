@@ -7,8 +7,10 @@ class Store extends Model {
         	$products = new Products();
                 $categories = new Categories();
                 $cart = new Cart();
+                $infos = new AjustesLoja();
 
-        	$dados['categories'] = $categories->getList();
+                $dados['categories'] = $categories->getList();
+                $dados['loja'] = $infos->getLojaInfos();
 
                 // $dados['widget_featured1'] = $products->getList(0, 5, array('featured'=>'1'), true);
                 // $dados['widget_featured2'] = $products->getList(0, 3, array('featured'=>'1'), true);

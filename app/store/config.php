@@ -5,7 +5,6 @@ require 'environment.php';
 global $config;
 global $db;
 
-
 define("BASE_DIR", realpath(__DIR__));
 
 $config = [];
@@ -16,10 +15,10 @@ if (ENVIRONMENT == 'development') {
     ini_set("default.timezone", "America/Sao_Paulo");
     define("BASE_URL", "http://ecommerce.pc/store/");
     define("ROOT_URL", "http://ecommerce.pc/");
-    $config['dbname'] = 'ecommerce_com_br_1';
+    $config['dbname'] = 'ecommerce';
     $config['host'] = 'localhost';
     $config['dbuser'] = 'root';
-    $config['dbpass'] = 'root';
+    $config['dbpass'] = '';
 } else {
     define("BASE_URL", "https://www.ecommerce.com.br/store/");
     define("ROOT_URL", "https://www.ecommerce.com.br/");

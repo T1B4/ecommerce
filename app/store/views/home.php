@@ -1,4 +1,5 @@
 <!-- INICIO DO CARROSSEL -->
+<?php if ( !empty($destaques)): ?>
 <div id="carouselControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner" style="background-color: #000;">
         <?php $ref = 'active'; ?>
@@ -42,9 +43,23 @@
         <span class="sr-only">Posterior</span>
     </a>
 </div>
+<?php endif; ?>
+<!-- FINAL DO CARROUSSEL -->
 
-<!-- FINAL DO CARROSSEL -->
+<?php if (!empty($destaques)) :?>
+<section class="container home-section">
+    <h1 class="text-center section-title">Destaques</h1>
+    <div class="section-div"></div>
+    <div class="row">
+        <?php foreach ($destaques as $destaque): ?>
+            <?php $this->loadView('prod_item', $destaque); ?>
+        <?php endforeach ?>
+    </div>
+</section>
+<?php endif; ?>
 
+
+<?php if (!empty($maisvendidos)) :?>
 <section class="container home-section">
     <h1 class="text-center section-title">Mais Vendidos</h1>
     <div class="section-div"></div>
@@ -53,9 +68,11 @@
             <?php $this->loadView('prod_item', $maisvendido); ?>
         <?php endforeach ?>
     </div>
-
 </section>
+<?php endif; ?>
 
+
+<?php if (!empty($lancamentos)): ?>
 <section class="container home-section">
     <h1 class="text-center section-title">Lançamentos</h1>
     <div class="section-div"></div>
@@ -66,8 +83,10 @@
     </div>
 
 </section>
+<?php endif ;?>
 
-<section class="container home-section">
+
+<!-- <section class="container home-section">
     <h1 class="text-center section-title">Navegar Por Marcas</h1>
     <div class="section-div"></div>
     <div class="row align-items-center text-center">
@@ -81,9 +100,9 @@
             </div>
         <?php endforeach ?>
     </div>
-</section>
+</section> -->
 
-<section class="container home-section">
+<!-- <section class="container home-section">
     <h1 class="text-center section-title">Navegar Por Categorias</h1>
     <div class="section-div"></div>
     <div class="row justify-content-center align-items-center">
@@ -104,7 +123,7 @@
             <?php endforeach ?>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="container home-section">
     <h1 class="text-center section-title">Preço Especial</h1>

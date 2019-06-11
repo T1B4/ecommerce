@@ -1,47 +1,30 @@
-<?php
-if (isset($viewData['social_items'])) {
-	extract($viewData['social_items']);
-} else {
-	$url = 'http://www.lustresecia.com.br';
-	$title = 'Lustre e Cia';
-	$description = 'Lustres e Cia -  A melhor Loja Online de Iluminação do Brasil. Lustres, pendentes, plafons, arandelas, spots, lampadas e muito mais.';
-	$image = BASE_URL . 'assets/img/logo.jpg';
-}
-
-if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
-	$page_title = $viewData['page_title'] . ' | Lustres e Cia.';
-	$og_title = $viewData['page_title'] . ' | Lustres e Cia.';
-} else {
-	$page_title = "Lustres e Cia";
-	$og_title = 'Lustres e Cia - A melhor loja de iluminação do Brasil.';
-}
-?>
-
 <!DOCTYPE html>
 <html lang="pt_BR">
+
+<?php extract($viewData); ?>
 
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Lustres e Cia - A melhor loja de iluminação do Brasil.">
+  <meta name="description" content="<?php echo $loja['descricao']; ?>">
 
   <meta property="og:locale" content="pt_BR">
-  <meta property="og:url" content="<?php echo $url; ?>">
-  <meta property="og:title" content="<?php echo $title; ?>">
-  <meta property="og:site_name" content="Lustres e Cia - A melhor loja de iluminação do Brasil">
-  <meta property="og:description" content="<?php echo $description; ?>">
+  <meta property="og:url" content="<?php echo $loja['url']; ?>">
+  <meta property="og:title" content="<?php echo $loja['titulo']; ?>">
+  <meta property="og:site_name" content="<?php echo $loja['titulo']; ?>">
+  <meta property="og:description" content="<?php echo $loja['descricao']; ?>">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="<?php echo $image; ?>">
+  <meta property="og:image" content="<?php echo BASE_URL . $loja['avatar_facebook']; ?>">
 
-  <title><?= $page_title; ?></title>
+  <title><?=$loja['titulo'];?></title>
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link rel="stylesheet" href="<?= BASE_URL; ?>assets/css/owl.carousel.min.css">
-  <link rel="stylesheet" href="<?= BASE_URL; ?>assets/css/owl.theme.default.min.css">
-  <link rel="stylesheet" href="<?= BASE_URL; ?>assets/css/style.css">
+  <link rel="stylesheet" href="<?=BASE_URL;?>assets/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="<?=BASE_URL;?>assets/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="<?=BASE_URL;?>assets/css/style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
     integrity="sha256-HAaDW5o2+LelybUhfuk0Zh2Vdk8Y2W2UeKmbaXhalfA=" crossorigin="anonymous" />
   <link rel="icon" href="<?php echo BASE_URL; ?>assets/img/logo.jpg">
@@ -116,7 +99,7 @@ if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
 <body>
 
   <div class="hidden">
-    <h1><?php echo $page_title; ?></h1>
+    <h1><?php echo $loja['titulo']; ?></h1>
   </div>
   <section class="top-bar d-none d-lg-block">
     <div class="container">
@@ -159,7 +142,7 @@ if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
                   class="badge badge-pill badge-success header-cart-badger"><?php echo array_sum($_SESSION['cart']); ?></span>
                 <?php else: ?>
                 <span class="badge badge-pill badge-secondary header-cart-badger">0</span>
-                <?php endif ?>
+                <?php endif?>
                 <img src="<?php echo BASE_URL; ?>assets/img/shopping-cart.png" alt="Carrinho de Compras">
               </div>
             </a>
@@ -185,19 +168,19 @@ if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
           <a href="<?php echo ROOT_URL . 'categorias/' . $cat['slug']; ?>"><?php echo $cat['name']; ?></a>
 
           <?php
-							if (count($cat['subs']) > 0) {
-								echo "<ul class='nav main_dropdown_content'>";
-								$this->loadView('search_subcategory', array(
-									'subs' => $cat['subs'],
-									'level' => 1,
-									'category' => $viewData['category']
-								));
-								echo "</ul>";
-							}
-							?>
+if (count($cat['subs']) > 0) {
+    echo "<ul class='nav main_dropdown_content'>";
+    $this->loadView('search_subcategory', array(
+        'subs' => $cat['subs'],
+        'level' => 1,
+        'category' => $viewData['category'],
+    ));
+    echo "</ul>";
+}
+?>
 
         </li>
-        <?php endforeach ?>
+        <?php endforeach?>
       </ul>
     </div>
   </nav>
@@ -237,20 +220,20 @@ if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
           <a href="<?php echo ROOT_URL . 'categorias/' . $cat['slug']; ?>"><b><?php echo $cat['name']; ?></b></a>
 
           <?php
-							if (count($cat['subs']) > 0) {
-								echo "<ul class='list-unstyled'>";
-								$this->loadView('search_subcategory_mobile', array(
-									'subs' => $cat['subs'],
-									'level' => 1,
-									'category' => $viewData['category']
-								));
-								echo "</ul>";
-							}
-							?>
+if (count($cat['subs']) > 0) {
+    echo "<ul class='list-unstyled'>";
+    $this->loadView('search_subcategory_mobile', array(
+        'subs' => $cat['subs'],
+        'level' => 1,
+        'category' => $viewData['category'],
+    ));
+    echo "</ul>";
+}
+?>
 
         </li>
         <div class="section-navbar"></div>
-        <?php endforeach ?>
+        <?php endforeach?>
       </ul>
     </div>
   </nav>
@@ -298,7 +281,7 @@ if (isset($viewData['page_title']) && !empty($viewData['page_title'])) {
   </section>
 
   <div>
-    <?php $this->loadViewInTemplate($viewName, $viewData); ?>
+    <?php $this->loadViewInTemplate($viewName, $viewData);?>
   </div>
 
   <footer>
